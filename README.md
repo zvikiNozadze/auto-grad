@@ -1,3 +1,5 @@
-# auto-grad, (minor bugs, searching for collaborators)
+# auto-grad 
 <br>
-Automatic Gradient computation similar to what MXNet and Tensorflow do.
+Automatic gradient computation for neural networks. 
+<br>
+(for educational purposes). 
